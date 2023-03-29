@@ -16,6 +16,8 @@ namespace ProgrammingConstruct
             IfElseProblem1.Equalnum();
             Console.WriteLine("Checking number is even or odd");
             IfElseProblem2.EvenOdd();
+            Console.WriteLine("Checking eligibility for voting");
+            IfElseProblem3.VotingEligibility();
             Console.ReadLine();
         }
     }

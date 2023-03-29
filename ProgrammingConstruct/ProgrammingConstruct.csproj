@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="IfandElseStatement\IfElseProblem1.cs" />
     <Compile Include="IfandElseStatement\IfElseProblem2.cs" />
+    <Compile Include="IfandElseStatement\IfElseProblem3.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
